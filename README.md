@@ -1,5 +1,5 @@
 # RatingApp mobile verison README
-Welcome to the `README` file for the web version of the Rating App created by `ATOMIC CODE`.
+Welcome to the `README` file for the mobile version of the Rating App created by `ATOMIC CODE`.
 ## Pre-Installation
 1. Clone this repository.
 2. Ensure you have an SQL server running (e.g., using XAMPP).
